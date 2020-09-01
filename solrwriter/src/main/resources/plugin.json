@@ -1,0 +1,6 @@
+{
+    "name": "solrwriter",
+    "class": "com.alibaba.datax.plugin.writer.solrwriter.SolrWriter",
+    "description": "适用于: 生产环境.  原理: TODO",
+    "developer": "wildpea"
+}
